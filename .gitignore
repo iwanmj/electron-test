@@ -1,0 +1,7 @@
+node_modules
+dist
+out
+myApplicationBuilt-win32-x64
+myApplication-installers
+.DS_Store
+*.log*
